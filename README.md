@@ -18,11 +18,7 @@ Hello! I am a passionate programmer with experience in a variety of technologies
   
 
 
- -  🔭 I’m currently working on something cool 😉
 
-- 👯 Currently perfecting and learning Angular Nest JS and NgRX
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
 
 <br>
